@@ -54,6 +54,6 @@
     </sap:WorkflowViewStateService.ViewState>
     <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="400,90.4" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="Hi" />
     <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="400,90.4" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="Hi 1" />
-    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="400,90.4" sap2010:WorkflowViewState.IdRef="WriteLine_3" Text="Chnage 1" />
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="400,90.4" sap2010:WorkflowViewState.IdRef="WriteLine_3" Text="Chnage 123456" />
   </Sequence>
 </Activity>
